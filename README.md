@@ -40,7 +40,7 @@ The image compression using K-Means algorithm consists of the following steps:
 5. Save the compressed image.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 Feel free to use, modify, and distribute this code according to the terms of the MIT License. If you find this project helpful, I would appreciate it if you give credit by linking back to this repository. If you have any suggestions or improvements, please create an issue or submit a pull request.
 
